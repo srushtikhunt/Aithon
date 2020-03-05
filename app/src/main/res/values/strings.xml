@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aithon</string>
+    <string name="heart_beat">Heart Beat</string>
+    <string name="temrpature">Temperature</string>
+    <string name="notify">Notify</string>
+    <string name="i_m_fine">I\'M FINE</string>
+    <string name="add_contact">ADD CONTACT</string>
+    <string name="delete"> DELETE</string>
+    <string name="show"> SHOW</string>
+    <string name="add" > ADD </string>
+    <string name="email_address" >EMAIL </string>
+    <string name="mobile_number" >NUMBER</string>
+    <string name="name"> NAME</string>
+    <string name="go_back">GO BACK</string>
+</resources>
